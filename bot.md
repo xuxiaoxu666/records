@@ -17,3 +17,5 @@
 
 ## 开源对话机器人框架 Rasa
 **https://www.sunzhongwei.com/install-chat-robot-framework-rasa**
+**https://rasa.com/docs/rasa/**
+**https://rasa.leovan.tech/**
